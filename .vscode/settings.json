@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "mincost_from_leafnodes": "cpp"
+    }
+}
